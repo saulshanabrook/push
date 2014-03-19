@@ -1,5 +1,4 @@
-# push
-
+# push [![Build Status](https://travis-ci.org/saulshanabrook/push.png)](https://travis-ci.org/saulshanabrook/push)
 An implementation of the
 [Push programming language](http://faculty.hampshire.edu/lspector/push.html).
 
@@ -38,7 +37,7 @@ himself, why make a whole new rewrite?
     * Use [Autodoc](http://tomfaulhaber.github.io/autodoc/) for API documentation
         * Host on GitHub pages
     * Usage documentation in `README.md`
-    * Contribution guidelines in `CONTRIBUTION.md`
+    * Contribution guidelines in `CONTRIBUTING.md`
 * Understandable code
     * Use [clojure/core.typed](https://github.com/clojure/core.typed) for
       Push function definitions
