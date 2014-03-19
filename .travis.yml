@@ -1,0 +1,6 @@
+language: clojure
+lein: lein2
+script:
+    - lein2 with-profile +test do eastwood, midje
+after_success:
+    - lein2 with-profile +test cloverage --coveralls --no-html
