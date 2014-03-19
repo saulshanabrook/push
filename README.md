@@ -38,7 +38,7 @@ himself, why make a whole new rewrite?
     * Use [Autodoc](http://tomfaulhaber.github.io/autodoc/) for API documentation
         * Host on GitHub pages
     * Usage documentation in `README.md`
-    * Contribution guidelines in `CONTRIBUTION.md`
+    * Contribution guidelines in `CONTRIBUTING.md`
 * Understandable code
     * Use [clojure/core.typed](https://github.com/clojure/core.typed) for
       Push function definitions
