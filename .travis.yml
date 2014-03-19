@@ -3,7 +3,7 @@ lein: lein2
 before_install:
     - lein2 bootstrap
 install:
-    - lein2 check
+    - lein2 deps
 script:
     - lein2 with-profile +test do eastwood, midje
 after_success:
