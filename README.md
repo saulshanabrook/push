@@ -1,5 +1,4 @@
-# push
-
+# push [![Build Status](https://travis-ci.org/saulshanabrook/push.png)](https://travis-ci.org/saulshanabrook/push)
 An implementation of the
 [Push programming language](http://faculty.hampshire.edu/lspector/push.html).
 
