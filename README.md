@@ -1,6 +1,13 @@
 # push
 
-The project uses [Midje](https://github.com/marick/Midje/).
+An implementation of the
+[Push programming languagee](http://faculty.hampshire.edu/lspector/push.html).
+
+>Push is a programming language designed for evolutionary computation, to be
+used as the programming language within which evolving programs are expressed.
+A  concise introduction to the most recent standardized version of the language
+("Push3") is contained in
+[The Push 3.0 Programming Language Descriptionn](http://faculty.hampshire.edu/lspector/push3-description.html).
 
 ## How to run the tests
 
