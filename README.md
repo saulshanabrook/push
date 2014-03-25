@@ -1,4 +1,8 @@
-# push [![Build Status](https://travis-ci.org/saulshanabrook/push.png)](https://travis-ci.org/saulshanabrook/push)
+# push
+
+[![Build Status](https://travis-ci.org/saulshanabrook/push.png)](https://travis-ci.org/saulshanabrook/push)
+[![Coverage Status](https://coveralls.io/repos/saulshanabrook/push/badge.png)](https://coveralls.io/r/saulshanabrook/push)
+
 An implementation of the
 [Push programming language](http://faculty.hampshire.edu/lspector/push.html).
 
