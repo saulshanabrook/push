@@ -4,5 +4,5 @@ install:
     - lein2 with-profile +test deps
 script:
     - lein2 with-profile +test do eastwood, midje
-after_success:
-    - lein2 with-profile +test cloverage --coveralls --no-html
+after_script:
+    - bash -ex coveralls.sh
